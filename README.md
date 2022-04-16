@@ -1,6 +1,6 @@
 # About Me
 
-Hi there 👋. My name is Konstantion, I live in Thailand, Phuket 🇹🇭 and I’m the maintainer of [**Rise**](https://github.com/wotkad/rise) project and a member of the [**Ramotion**](https://www.ramotion.com) team where I primarily contribute as part of the Front-End Developer. I also work on a number of other open source projects, mostly in the JavaScript ecosystems.
+Hi there 👋. My name is Konstantin, I live in Thailand, Phuket 🇹🇭 and I’m the maintainer of [**Rise**](https://github.com/wotkad/rise) project and a member of the [**Ramotion**](https://www.ramotion.com) team where I primarily contribute as part of the Front-End Developer. I also work on a number of other open source projects, mostly in the JavaScript ecosystems.
 
 I find myself most passionate about helping people learn about technology and how it can help improve their process and workflows. I like to do so through software projects that are well designed, tested, performant, and maintained in a way that advocates for great experiences for all involved.
 
