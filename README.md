@@ -9,6 +9,6 @@ These days I'm happily mixing it up and focusing on open source and the web. Wou
 - 🔭 I’m currently working on: AAK corporation.
 - 🌱 I’m currently learning: JavaScript, React.js, Vue.js, NodeJS.
 - 👯 I’m looking to collaborate on: web standards (WHATWG, NodeJS, etc).
-- 🤔 I’m looking for: help with React.js 😄
+- 🤔 I’m looking for: help with React 😄
 - 💬 Ask me about: my [**Rise**](https://github.com/wotkad/rise) project.
 - 📫 How to reach me: [**Twitter**](https://twitter.com/wotkad), [**Blog**](https://www.wotkad.ru).
