@@ -9,6 +9,5 @@ These days I'm happily mixing it up and focusing on open source and the web. Wou
 - 🔭 I’m currently working on: [**Ramotion**](https://ramotion.com/).
 - 🌱 I’m currently learning: Vue, NodeJS.
 - 👯 I’m looking to collaborate with: Web Studios, IT-companies etc.
-- 🤔 I’m looking for: help with Vue 😄
 - 💬 Ask me about: my [**Rise**](https://github.com/wotkad/rise) project.
 - 📫 How to reach me: [**Twitter**](https://twitter.com/wotkad), [**Portfolio**](https://www.wotkad.ru).
