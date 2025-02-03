@@ -6,8 +6,8 @@ I find myself most passionate about helping people learn about technology and ho
 
 These days I'm happily mixing it up and focusing on open source and the web. Would love to hear what you're up to, too!
 
-- 🔭 I’m currently working on: Freelance.
+- 🔭 I’m currently working at: [**SHEVELEV**](https://shevelev.agency).
 - 🌱 I’m currently learning: Vue, NodeJS.
 - 👯 I’m looking to collaborate with: Web Studios, IT-companies etc.
-- 💬 Ask me about: my [**Rise**](https://github.com/wotkad/rise) project.
-- 📫 How to reach me: [**Twitter**](https://twitter.com/wotkad), [**Portfolio**](https://www.wotkad.ru).
+- 💬 Ask me about: [**Rise**](https://github.com/wotkad/rise) project.
+- 📫 How to reach me: [**SHEVELEV**](https://shevelev.agency).
